@@ -1,6 +1,8 @@
 # MoveIt Pick and Place - Python version
 
-![gen3_lite rviz demo](./demo.gif)
+<p align="center">
+  <img src="./demo.gif" alt="gen3_lite rviz demo">
+</p>
 
 ## Structure of package
 ```sh
