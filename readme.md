@@ -1,5 +1,7 @@
 # MoveIt Pick and Place - Python version
 
+The repository is a Python version of [this MoveIt tutorial](http://docs.ros.org/en/melodic/api/moveit_tutorials/html/index.html) on pick and place with slight changes. `moveit_msgs::Grasp` is not used.
+
 <p align="center">
   <img src="./demo.gif" alt="gen3_lite rviz demo">
 </p>
